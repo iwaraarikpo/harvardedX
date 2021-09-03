@@ -292,3 +292,4 @@ hist(olive$eicosenoic)
 #Make a boxplot of palmitic acid percentage in olive with separate distributions for each region.
 
 boxplot(palmitic~region, data=olive)
+
